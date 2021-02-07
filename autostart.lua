@@ -15,6 +15,9 @@ end
 -- Network Manager Applet
 run_once("nm-applet")
 
+-- caps to mod
+run_once("setxkbmap -option caps:super")
+
 -- Disable Bell
 run_once("xset -b")
 

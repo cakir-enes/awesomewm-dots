@@ -1,3 +1,6 @@
+fork of javacafes dots
+
+
 NOTICE: My configuration for AwesomeWM only works on the latest git master branch. On Arch based distros, all you would have to do is install `awesome-git` from the AUR. On others, you will have to build it manually.
 
 ## Setup

@@ -51,7 +51,7 @@ end
 theme = "ghosts"
 screen_width = awful.screen.focused().geometry.width
 screen_height = awful.screen.focused().geometry.height
-terminal = "termite"
+terminal = "kitty"
 editor = os.getenv("EDITOR") or "nvim"
 editor_cmd = terminal .. " -e " .. editor
 browser = "MOZ_X11_EGL=1 firefox"
